@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [phishingpy](https://github.com/pouyasdz/phishingpy)
 
 - 📝 I regularly write articles on [https://stackoverflow.com/users/20480087/syber-man](https://stackoverflow.com/users/20480087/syber-man)
 
